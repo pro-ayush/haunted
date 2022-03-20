@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "Van Helsing";
+  src: url("./fonts/Van\ Helsing.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "BloodOmen";
+  src: url("./fonts/BloodOmen.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Phantom";
+  src: url("./fonts/Phantom\ Lord\ Lite.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Veal";
+  src: url("./fonts/Veal\ Nerve.otf") format("opentype");
+}
+
+body {
+  cursor: url("https://img.icons8.com/external-icongeek26-glyph-icongeek26/32/000000/external-insect-bugs-and-insects-icongeek26-glyph-icongeek26.png"),auto;
+}

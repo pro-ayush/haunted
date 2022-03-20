@@ -1,0 +1,11 @@
+
+
+.cursorClass {
+    position  : absolute;
+    z-index   : 10000;
+    width     : 30px;
+    height    : 30px;
+    background-color: white;
+    border-radius: 100px;
+    transition: 0.50s ease-out;
+  }
